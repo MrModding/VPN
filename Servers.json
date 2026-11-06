@@ -1,100 +1,100 @@
 [
   {
     "id": 1,
-    "name": "Singapore",
-    "countryCode": "sg",
-    "city": "Queenstown Estate",
-    "config": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#test"
+    "name": "United Arab Emirates",
+    "countryCode": "ae",
+    "city": "Dubai",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=germanyorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E2%96%B8%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F"
   },
   {
     "id": 2,
-    "name": "Turkey #1",
-    "countryCode": "tr",
-    "city": "Istanbul",
-    "config": "vless://713eec69-3d24-43bf-9b1f-0f27f2d90e0b@199.232.246.108:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.v2VSUvsSNnff2xLNomOljENFCpqbXlyHQgga2u1hCG4&insecure=0&host=qygaikzxucppefukolplpokolokllkl123.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=firefox.com#Istanbul"
+    "name": "Germany",
+    "countryCode": "de",
+    "city": "Frankfurt",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=germany2orngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E2%96%B8%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F%C2%B2"
   },
   {
     "id": 3,
-    "name": "United Kingdom",
-    "countryCode": "gb",
-    "city": "Slough",
-    "config": "vless://713eec69-3d24-43bf-9b1f-0f27f2d90e0b@216.137.34.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d2urrond3xiafu.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2urrond3xiafu.cloudfront.net#uk"
+    "name": "United Arab Emirates #2",
+    "countryCode": "ae",
+    "city": "Dubai",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@render.com:2095?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.HbU4-z9eRREhz0GCQ77WaAi4uLN4kPX9BhU8KbstfRg&host=orge1-rk37dgsldr3spzn.bf5usfssfsgst.heae38fsw3qndkls.mztrepa.ysfswke62vfr3wxqjdn-hpsfstlyc-skwzsfsfd.maniyadg7shard.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%E2%96%B8%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F%20%E2%80%8F%EA%A9%9C"
   },
   {
     "id": 4,
-    "name": "Russia",
-    "countryCode": "ru",
-    "city": "St Petersburg",
-    "config": "vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?security=reality&encryption=none&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=capableconjuretarnish.clarionconsult.info&sid=a50534e181896415#Russia"
+    "name": "United Kingdom",
+    "countryCode": "gb",
+    "city": "England",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=englandorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20%E2%96%B8%E1%B4%87%C9%B4%C9%A2%CA%9F%E1%B4%80%C9%B4%E1%B4%85"
   },
   {
     "id": 5,
-    "name": "South Africa",
-    "countryCode": "za",
-    "city": "Johannesburg",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#Johannesburg"
+    "name": "Serbia",
+    "countryCode": "rs",
+    "city": "Belgrade",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=netherlandorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20%E2%96%B8%C9%B4%E1%B4%87%E1%B4%9B%CA%9C%E1%B4%87%CA%80%CA%9F%E1%B4%80%C9%B4%E1%B4%85"
   },
   {
     "id": 6,
-    "name": "Netherlands #1",
-    "countryCode": "nl",
-    "city": "MCI",
-    "config": "vless://713eec69-3d24-43bf-9b1f-0f27f2d90e0b@3.161.75.109:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d2urrond3xiafu.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2urrond3xiafu.cloudfront.net#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A6%81%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%E2%9A%A1%EF%B8%8F%F0%9F%9A%80"
-  },
-  {
-    "id": 7,
-    "name": "Netherlands #2",
-    "countryCode": "nl",
-    "city": "MCI",
-    "config": "vless://713eec69-3d24-43bf-9b1f-0f27f2d90e0b@18.165.65.174:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d2urrond3xiafu.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2urrond3xiafu.cloudfront.net#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A6%81%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%E2%9A%A1%EF%B8%8F%F0%9F%9A%80"
-  },
-  {
-    "id": 8,
     "name": "France",
     "countryCode": "fr",
     "city": "Paris",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=france-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20%E2%96%B8%EA%9C%B0%CA%80%E1%B4%80%C9%B4%E1%B4%84%E1%B4%87"
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=franceorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20%E2%96%B8%EA%9C%B0%CA%80%E1%B4%80%C9%B4%E1%B4%84%E1%B4%87"
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "United States",
     "countryCode": "us",
     "city": "New York",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ukraine-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#us"
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ukraineorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%A6%20%E2%96%B8%E1%B4%9C%E1%B4%8B%CA%80%E1%B4%80%C9%AA%C9%B4%E1%B4%87"
+  },
+  {
+    "id": 8,
+    "name": "Turkey",
+    "countryCode": "tr",
+    "city": "Istanbul",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=turkeyorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7%20%E2%96%B8%E1%B4%9B%E1%B4%9C%CA%80%E1%B4%8B%E1%B4%87%CA%8F"
+  },
+  {
+    "id": 9,
+    "name": "Germany #2",
+    "countryCode": "de",
+    "city": "Berlin",
+    "config": "vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BDE7%5D"
   },
   {
     "id": 10,
-    "name": "United States #Tunnel",
-    "countryCode": "us",
-    "city": "New York",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ukraine-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#us"
+    "name": "Denmark",
+    "countryCode": "dk",
+    "city": "Copenhagen",
+    "config": "vless://0a480d10-8da3-d465-1fb1-c45ceb8d8edf@tun.markaz-sabz.ir:9003?security=reality&encryption=none&pbk=qX3WggmKfPNlaqjHCnMh-7auVkifXAGXb--dVnplpSI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=storage-p2.googleapis.com&sid=4ba73cebb8bd#%F0%9F%87%A9%F0%9F%87%B0%20%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%91%F0%9D%90%8A%20%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%88"
   },
   {
     "id": 11,
     "name": "United States #Gemini",
     "countryCode": "us",
-    "city": "Florida",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ussaa-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#Florida"
+    "city": "Ohio",
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=uussaaorangy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E2%96%B8%E1%B4%9C%EA%9C%B1%E1%B4%80%20%E2%8B%AE%20%E2%9C%A7%20%C9%A2%E1%B4%87%E1%B4%8D%C9%AA%C9%B4%C9%AA"
   },
   {
     "id": 12,
     "name": "Albania",
     "countryCode": "al",
     "city": "Tirana",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=albannia-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#Albania"
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=albaniaorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%B1%20%E2%96%B8%E1%B4%80%CA%9F%CA%99%E1%B4%80%C9%B4%C9%AA%E1%B4%80%20%E2%8A%98"
   },
   {
     "id": 13,
     "name": "Azerbaijan",
     "countryCode": "az",
     "city": "Baku",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=bakuu-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#Azerbaijan"
+    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=bakuuuorngy.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%BF%20%E2%96%B8%CA%99%E1%B4%80%E1%B4%8B%E1%B4%9C"
   },
   {
     "id": 14,
-    "name": "United Arab Emirates",
-    "countryCode": "ae",
-    "city": "Dubai",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@146.75.57.111:443?vcn=cdn.akamai.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=germany-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#Dubai"
+    "name": "Finland",
+    "countryCode": "fi",
+    "city": "Uusimaa",
+    "config": "vless://0a480d10-8da3-d465-1fb1-c45ceb8d8edf@tun.markaz-sabz.ir:9001?security=reality&encryption=none&pbk=CXzE3rO3EEhSiOUyRvU9R0FK1mm0ebmjtqiShDpzcHo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=storage-p2.googleapis.com&sid=c24b7c2bf96b#%F0%9F%87%AB%F0%9F%87%AE%20%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83%20%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%88"
   }
 ]
