@@ -149,7 +149,7 @@
   {
     "id": 22,
     "name": "Turkey",
-    "countryCode": "us",
+    "countryCode": "tr",
     "city": "Istanbul",
     "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@render.com:2096?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&host=org-trk-uwjushal-bssutqudhdahuhssgsgahdgesye-beqhjduyeshshswter.maniyadg7shard.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=org-trk-uwjushal-bssutqudhdahuhssgsgahdgesye-beqhjduyeshshswter.maniyadg7shard.ir#%F0%9F%87%B9%F0%9F%87%B7%20%E2%96%B8%E1%B4%9B%E1%B4%9C%CA%80%E1%B4%8B%E1%B4%87%CA%8F"
   },
