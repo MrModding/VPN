@@ -1,170 +1,65 @@
 [
   {
     "id": 1,
-    "name": "Netherlands",
-    "countryCode": "nl",
-    "city": "Haarlem",
-    "config": "trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%3D26&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%9F%A2"
+    "name": "Germany",
+    "countryCode": "de",
+    "city": "Berlin",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@2e246b9c96152a5c.5c6.ir:8103?security=&encryption=mlkem768x25519plus.native.0rtt.NGe5AU-lIAu2Tdh2Qu35429j820woztU17x1OdjjATU&headerType=none&type=tcp#6403017808_7496%20%7C%2030%20Days"
   },
   {
     "id": 2,
-    "name": "Netherlands #2",
-    "countryCode": "nl",
-    "city": "Amsterdam",
-    "config": "trojan://mitivpn@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%3F26&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.talk&fp=firefox&type=ws&allowInsecure=0&sni=steamstatic.com#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%94%B4"
+    "name": "Germany #2",
+    "countryCode": "de",
+    "city": "Berlin",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@11d748da1da57c3d.5c6.ir:8103?security=&encryption=mlkem768x25519plus.native.0rtt.NGe5AU-lIAu2Tdh2Qu35429j820woztU17x1OdjjATU&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany"
   },
   {
     "id": 3,
-    "name": "United Arab Emirates",
-    "countryCode": "ae",
-    "city": "Dubai",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@germanykschasch.whooisthebest.ir:10000?security=reality&pqv=jABkxpcclikR8jQZ34Jsgn87fYaxWbLs3JFvnRcu41rzOv4oMobODrcPchduhKGR-GbyZZzpu2eHJMaKqGQ7LfLmfjfPlos5g5MnEwzec9tRC0x0T0Og6GV0gYHz7_NbE_RFH69nP1FXLVtAejkmPyeOZIv2tC9l66koiZoxXpTJGoWkHRupusZD2lTMUT26tggaiAaheQli6EihEomKhiB5ir6lZkE-YK20KnwSFNrlmh8Dd_ojc5Ow9_nP_uSDa-99Ho9XniL6oo82NEdNaV_srl28u1Dxvc12khEDFPRh_J60FfEq_hoTYjdujiqDzUsDFrieiaht7K1YPz7tbmft5_zeCh0vF8QI_7E_sy9Bsq9Zk-NAYOjESDTz9Rtn-n6i72QAbIDvIcVovLqCnGewSzrHaLbsUE94Yy28hvHTKjskWr9paqATtBPNAROX0Hw3ShmBrAFQuFAKW66dd40Em08tMM-tMlCm3L9ClNksL8XjK5tFo5nmWDi8BRWkU1JTcgql1McjpxDtmyZc-rIOraUcoAVYy6Xr2or5rn2eTvMX_fp0DH4xbIDBsA7JFwAZuYA4nLMNnSWOTf8LFmhDbWrC6L6akhbAVUTnAGGFLnrx_TJfPEEH2erxrZfOsbsIWwsyqwH3zE9NWmpVg_QShKdwPtdLcqSloM3tMKqCut0QK0-0nGKJxSv9olVm5ZG6fPzCrurGqYTqB_vz_A2Lghz1eaW6ZX4mPRiRWbfAubFEZ_dX1-xMWjxS5_yM0GvX80CcujCpBhajGuL1dAK_ISVHCdRxRGMP0ldGcZOyNya8xdJGb7WAylE6wSs6GJu3LbyfJQdm80ZnYDgLE_xZXDIzkYnR5xb6QmJIuMwCUehIh6z2JZ07o9yM0QhpXCLe6lLzy9f6vlEqI_13QBMUn0ynBMEfyi0VlSEXXxX-x7H6lkLoAAiAqsgiuB2GCFVupx_FEjXoyoNJRfio7UJ5EZx3PtAYSpql6cmuUSJHZAwZSa15JIvAkNnppEcwPv0BkhV40kPFDH0z8UjT42ff6UiZhSN5_biO0Jbh7rlD6GINPJxnMj0FLCmp6X0nXlglvojdrh7P-Bl1y87riacjr9IViDIrbkTOthPNwxpYUyX-ctDfcm6FMVKr1w891ad06EAYfhQTX0hett60R4NR0lnz9LS-E6tfHVISg2aNzyfTLgzmuiWa80JBqWlfdEj3ikkEzq_NzvKwD2FBffAR6LYbfLFc3shD4p-o3pxdK5g3FTcUVkXwy74om9ryyKnDhqn1sxVu_PoBJwrPjqWt2I4aSGuPTnFUpCo6OSP7n0Tsj0-I413JlXuwBNeNXW7sCSDpZDgT_MBioFDmrVtXsjyZKZ6zwq1NXPtKlNiYwA0ImDGH5odz_gXWY2FZ0KqX_zxGjoxNsvscvr9wPF5dabD2cTHv7nsQcHbyJFad5AzqFWg49O4gqOxZqwFQ29o5RKajMz8s29rDoTaNHKhIkrO034YjI2awe853D90K6vIrQ61alwh60uAN9M6g6qbNbnhLMua1kgNqpFybbEDx0tSK19z-OsFwO0-YF23d2kdQkoRDTNU697T9THXWVKSKmizQKXf6u60hA4c-vbLYWUp-2dZvLDLfz41o6Alab0PZ7rA_imNeh7Ia1S18m80maAsQ3L_mXWm-yGsU-8ajq3V3Q26IUrS01yAsjs2j5kfM73ufn3AMXt5RHQ1B-OiwLE__3_eDSwKXWcXBY1OJmSw3urlyIT372_WyRbTzwMWn66NFPmvJDt8HCdXmfpVzMr2-W8gJ4MI5hrw7puCjiCnIDA7ayRBeIKLl5lzAQgOx-9gsk4fucpc46a0ATkXbnNhvbBGGXMYwCiYrLxL56MzmwzHjNXKOOjXyrCiA6YXIpYVv81MT-kjvPbm67ui3vtTdc0t9WcrCVP1Gh5JKUGur0t0idjhK86hT4kYLfswhAVk6uV7ct78efC4KDOSleee8HhFx5LyFjrb5ujdHKgiKvH9320_XnPdQajdz-eMXsI3d9WlOhlW7QpKdj-klL_22a0AjOOarO4Of9ZferQEl1pHKrghJXlnREjuuBjIShwEZ7YX0XWlI5Yp0p56VYLsl891om0JwC_80unGvNpGqZTbU6LsCv5ROgnPfn9sEwm7KyVeGJ0etoK3vhAIy1KwCF8Dlfm-_OcvJ8WbdXE6eCmgDUAu9Xis7iJ8J_02Y5QCJTpbZvv1f6yq3I7AgoMwT7z9J1qDfdbqQMz2LMtKyyF3_S3W_hNf-bCEtjfoX7FYRYje1pQZ1iPH4HQN7-IhSQcN15n2vCHgukXMgZXx_Rkh75ig5qQWdFtk937fR_A4bWhrxfOb3QqQKhucQjvZaZMoQvnYYpHWu8vMzXoDVHYriJm4TDphfMUzs_DMDakU96faOAE4aQ7j-j2YS2xFM3jdnLJYtfX12EadbGAqzeMe6HNqWEeB_gk4OGYPd2xIEf6r2vfey8ofBDwqMnl_KSpdVvYaKFv1CVREHIyN5YPoN4gqXHN4HzYoTCzssfSxsnqDxpL9gDet0HXtJd4FfY74s2uSFDRp7GxTDM8Qvlh9UL97R9ngQgIQ&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8#%F0%9F%87%A9%F0%9F%87%AA%20%E2%96%B8%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F%20%E2%8B%AE%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84"
+    "name": "United States",
+    "countryCode": "us",
+    "city": "New York",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@5f0fc2e771f75daa.3b6.ir:8143?security=&encryption=mlkem768x25519plus.native.0rtt.feqTSOQ-_a2dCFJyI5dfP5ZCHbsMiHQKcN-4kCFBPWc&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20America"
   },
   {
     "id": 4,
-    "name": "Germany",
-    "countryCode": "de",
-    "city": "berlin",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA%2022%20-%20IE%20-%20SS%2FAEAD%20-%20443"
-  },
-  {
-    "id": 5,
-    "name": "Serbia",
-    "countryCode": "rs",
-    "city": "Belgrade",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
-  },
-  {
-    "id": 6,
     "name": "France",
     "countryCode": "fr",
     "city": "Paris",
-    "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%8C%9F%20%40MTproxy22_v2ray"
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@fdd38a0cc8a74c79.1f6.ir:8193?security=&encryption=mlkem768x25519plus.native.0rtt.e1Hds3F6-p26a02vbxJiHGALW23bMrMXgYNOnlcDDSQ&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France"
+  },
+  {
+    "id": 5,
+    "name": "United Kingdom",
+    "countryCode": "gb",
+    "city": "England - Archway",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@8124465942e61ac4.5l6.ir:8123?security=&encryption=mlkem768x25519plus.native.0rtt.RJ87kEG3iQSn335tUGQfldvVb0-YU8lCnNsyJW-qHw0&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Britain"
+  },
+  {
+    "id": 6,
+    "name": "Finland",
+    "countryCode": "fi",
+    "city": "Helsinki",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@06889416670430f6.5z6.ir:8133?security=&encryption=mlkem768x25519plus.native.0rtt.-5XxpOsCMhZUt34DTIS27-u56sR1op7YY7BH1KD6Yw4&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland"
   },
   {
     "id": 7,
-    "name": "United States",
-    "countryCode": "us",
-    "city": "Ohio - Columbus",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%B3%F0%9F%87%B1%2043%20-%20NL%20-%20SS%2FAEAD%20-%208080"
+    "name": "Czech",
+    "countryCode": "cz",
+    "city": "Prague",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@94e81900d864f548.7c6.ir:8163?security=&encryption=mlkem768x25519plus.native.0rtt.7ySAjAbR7ycQNL6XgQ8VqAwaed2bddZJkJc7pUyU_BA&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czech"
   },
   {
     "id": 8,
-    "name": "Switzerland",
-    "countryCode": "ch",
-    "city": "Zurich",
-    "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram%E2%80%94V2ray_confiig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%AB%F0%9F%87%B7%20147%20-%20FR%20-%20VLESS%2FREALITY%2FPBK%2FSID%2FVISION%20-%2023576"
+    "name": "Italy",
+    "countryCode": "it",
+    "city": "Tuscany - Arezzo",
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@f4993883b9195ff5.1w6.ir:8173?security=&encryption=mlkem768x25519plus.native.0rtt.f8GPCCsLOLVRMx6TcHlpv3ZGit5pCApJJ0BwlsF4jGY&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy"
   },
   {
     "id": 9,
-    "name": "United States #2",
-    "countryCode": "us",
-    "city": "New York",
-    "config": "vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%BA%F0%9F%87%B8%20411%20-%20US%20-%20VLESS%2FTLS%2FVISION%20-%20443"
-  },
-  {
-    "id": 10,
-    "name": "Canada",
-    "countryCode": "ca",
-    "city": "Toronto",
-    "config": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HqPCfh6YgMzYgLSBDQSAtIFZNZXNzIC0gMTgwMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9"
-  },
-  {
-    "id": 11,
-    "name": "United States #3",
-    "countryCode": "us",
-    "city": "New York",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8%2030%20-%20US%20-%20SS%2FAEAD%20-%20443"
-  },
-  {
-    "id": 12,
-    "name": "Singapore",
-    "countryCode": "sg",
-    "city": "Singapore",
-    "config": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCA1NSAtIFNHIC0gVk1lc3MgLSAxODAwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0="
-  },
-  {
-    "id": 13,
-    "name": "Kazakhstan",
-    "countryCode": "kz",
-    "city": "Almaty",
-    "config": "vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzOC4xMDcuMjM0LjU3IiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4ew8J+HvyAzIC0gS1ogLSBWTWVzcy9XUyAtIDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-  },
-  {
-    "id": 14,
-    "name": "Hong Kong",
-    "countryCode": "hk",
-    "city": "Kowloon",
-    "config": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJpZCI6ImI5ZGUxYmM5LWJhYTctNDFhYy04NmY3LWNjZDU5Njk1Y2IyMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwicGNzIjoiIiwicG9ydCI6IjIzMDI2IiwicHMiOiLwn4et8J+HsCAyNCAtIEhLIC0gVk1lc3MvV1MgLSAyMzAyNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0="
-  },
-  {
-    "id": 15,
-    "name": "South Korea",
-    "countryCode": "kr",
-    "city": "Seoul",
-    "config": "vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HsPCfh7cgNDcgLSBLUiAtIFZNZXNzIC0gNDQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ=="
-  },
-  {
-    "id": 16,
-    "name": "United Kingdom",
-    "countryCode": "gb",
-    "city": "England - Canary Wharf",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@216.24.57.1:2083?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Enorgg.maniyadg7shard.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Enorgg.maniyadg7shard.ir#%F0%9F%87%AC%F0%9F%87%A7%20%E2%96%B8%E1%B4%87%C9%B4%C9%A2%CA%9F%E1%B4%80%C9%B4%E1%B4%85"
-  },
-  {
-    "id": 17,
-    "name": "United Kingdom #2",
-    "countryCode": "gb",
-    "city": "England - Canary Wharf",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@englandddtun.whooisthebest.ir:9632?security=reality&encryption=none&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&headerType=none&fp=chrome&type=tcp&sni=aparat.com&sid=e9b64ca7d55f2672#%F0%9F%87%AC%F0%9F%87%A7%E2%8C%AF%F0%9F%87%AE%F0%9F%87%B7%20%E2%96%B8%E1%B4%87%C9%B4%C9%A2%CA%9F%E1%B4%80%C9%B4%E1%B4%85"
-  },
-  {
-    "id": 18,
-    "name": "United States #5",
-    "countryCode": "us",
-    "city": "New York - Rockland",
-    "config": "vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7rwn4e4IDE5IC0gVVMgLSBWTWVzcyAtIDE4MDAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ=="
-  },
-  {
-    "id": 19,
-    "name": "United States #6",
-    "countryCode": "us",
-    "city": "Florida - Miami",
-    "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%AA%F0%9F%87%B8%2090%20-%20ES%20-%20SS%2FAEAD%20-%2019999"
-  },
-  {
-    "id": 20,
-    "name": "United States #7",
-    "countryCode": "us",
-    "city": "Arizona - Phoenix",
-    "config": "vmess://eyJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTI5LjE0Ni43Ny4yNDgiLCJpZCI6ImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBjcyI6IiIsInBvcnQiOiIzOTQ5NSIsInBzIjoi8J+HuvCfh7hbVVMyOV0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-  },
-  {
-    "id": 21,
-    "name": "United States #8",
-    "countryCode": "us",
-    "city": "Virginia - Reston",
-    "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%BA%F0%9F%87%B8%5BUS27%5D"
-  },
-  {
-    "id": 22,
     "name": "Turkey",
     "countryCode": "tr",
     "city": "Istanbul",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@render.com:2096?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&host=org-trk-uwjushal-bssutqudhdahuhssgsgahdgesye-beqhjduyeshshswter.maniyadg7shard.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=org-trk-uwjushal-bssutqudhdahuhssgsgahdgesye-beqhjduyeshshswter.maniyadg7shard.ir#%F0%9F%87%B9%F0%9F%87%B7%20%E2%96%B8%E1%B4%9B%E1%B4%9C%CA%80%E1%B4%8B%E1%B4%87%CA%8F"
-  },
-  {
-    "id": 23,
-    "name": "Serbia #2",
-    "countryCode": "rs",
-    "city": "Belgrade",
-    "config": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%5BCH2%5D"
-  },
-  {
-    "id": 24,
-    "name": "United Arab Emirates #2",
-    "countryCode": "ae",
-    "city": "Dubai",
-    "config": "vless://11bd2052-2bbf-4d36-83a5-1189a50dff43@render.com:2087?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Org-grm-soeiwhal-bssutudhdhese-beqhjdwter.maniyadg7shard.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Org-grm-soeiwhal-bssutudhdhese-beqhjdwter.maniyadg7shard.ir#%F0%9F%87%A9%F0%9F%87%AA%20%E2%96%B8%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F"
+    "config": "vless://16a9dec0-1712-4484-80f9-579a121bdf22@e009c74232932da9.3f6.ir:8173?security=&encryption=mlkem768x25519plus.native.0rtt.zToM51_kOvRHUZk2kehmgWvoiW0es2GYQbiure7jq18&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey"
   }
 ]
