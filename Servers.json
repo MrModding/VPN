@@ -36,10 +36,10 @@
   },
   {
     "id": 6,
-    "name": "Netherlands #2",
-    "countryCode": "nl",
-    "city": "Amsterdam",
-    "config": "vless://0a480d10-8da3-d465-1fb1-c45ceb8d8edf@static.237.152.62.46.clients.your-server.de:4619?security=&encryption=mlkem768x25519plus.native.0rtt.0vE6P60dOCEQ3phqSS41gyerKbXsYORXbCMuN6SEHRI&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80%20%C2%B7%20%E1%B4%B0%E2%81%B1%CA%B3%E1%B5%89%E1%B6%9C%E1%B5%97%20%C2%B2"
+    "name": "Estonia",
+    "countryCode": "ee",
+    "city": "Tallinn",
+    "config": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#%5Bopenproxylist.com%5D%20%2016244445"
   },
   {
     "id": 7,
